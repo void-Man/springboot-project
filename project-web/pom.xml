@@ -5,6 +5,8 @@
 	<packaging>pom</packaging>
 	<modules>
 		<module>project-common</module>
+		<module>project-controller</module>
+		<module>project-service</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
