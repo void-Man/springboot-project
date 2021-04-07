@@ -3,20 +3,13 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>project-web</artifactId>
+        <artifactId>project-service</artifactId>
         <groupId>com.cmj</groupId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>project-common</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>common-entity</module>
-        <module>common-interface</module>
-        <module>common-mbg</module>
-        <module>common-dao</module>
-    </modules>
+    <artifactId>service-test</artifactId>
 
 
 </project>
